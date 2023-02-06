@@ -1,0 +1,10 @@
+.Box {
+  background-color: rgb(238, 240, 240);
+  padding: 13px;
+}
+
+.pagination {
+  position: fixed;
+  bottom: 20px;
+  left: 40%;
+}
